@@ -6,7 +6,7 @@
 
 Ambiente de estudo de infraestrutura Microsoft: um controlador de domínio Windows Server e estações Windows 10 em rede interna isolada, para praticar AD DS, DNS, DHCP, OUs, grupos, GPO e permissões, as mesmas tarefas do meu dia a dia no suporte.
 
-**[Portfólio](https://pedrosilva-c.github.io/portfolio/)** · **[Perfil no GitHub](https://github.com/pedrosilva-c)**
+**[Portfólio](https://pedro-osaka.github.io/portfolio/)** · **[Perfil no GitHub](https://github.com/Pedro-Osaka)**
 
 ## Problema
 
@@ -91,4 +91,4 @@ Validação dos scripts (11/11/2026): sem erros de sintaxe no parser do Windows 
 
 ## Autor
 
-**Pedro Henrique da Silva Pereira** · [Portfólio](https://pedrosilva-c.github.io/portfolio/labs/lab-001.html) · [LinkedIn](https://www.linkedin.com/in/pedrosilva-sistemas/)
+**Pedro Henrique da Silva Pereira** · [Portfólio](https://pedro-osaka.github.io/portfolio/labs/lab-001.html) · [LinkedIn](https://www.linkedin.com/in/pedrosilva-sistemas/)
